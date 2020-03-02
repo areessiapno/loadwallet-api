@@ -1,0 +1,46 @@
+{
+  "name": "loadwallet-api",
+  "version": "0.1.0",
+  "description": "LoadWallet API wrapper for Node.js",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/areessiapno/loadwallet-api.git"
+  },
+  "keywords": [
+    "smart",
+    "eload",
+    "loadwallet",
+    "api",
+    "wrapper",
+    "philippines"
+  ],
+  "author": "Arees Siapno <areessiapno@gmail.com> (https://github.com/areessiapno)",
+  "contributors": [
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.69.0"
+  },
+  "blah": {
+    "description": "LoadWallet API wrapper for nodejs"
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "scripts/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
+  ]
+}
